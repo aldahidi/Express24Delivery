@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hidia\\source\\delivery_boyExpress24\\delivery_boy\\build\\url_launcher_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hidia\\.gradle\\caches\\transforms-3\\946c729c7bf21be74702dcfdcb5396f5\\transformed\\core-1.6.0\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\hidia\\source\\delivery_boyExpress24\\delivery_boy\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\values-sr\\values-sr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hidia\\.gradle\\caches\\transforms-3\\946c729c7bf21be74702dcfdcb5396f5\\transformed\\core-1.6.0\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\hidia\\source\\delivery_boyExpress24\\delivery_boy\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\hidia\\.gradle\\caches\\transforms-3\\5501f14592621c95db494d6c68b445d7\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hidia\\source\\delivery_boyExpress24\\delivery_boy\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\hidia\\.gradle\\caches\\transforms-3\\5501f14592621c95db494d6c68b445d7\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hidia\\source\\delivery_boyExpress24\\delivery_boy\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\hidia\\.gradle\\caches\\transforms-3\\5501f14592621c95db494d6c68b445d7\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\hidia\\source\\delivery_boyExpress24\\delivery_boy\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\hidia\\.gradle\\caches\\transforms-3\\5501f14592621c95db494d6c68b445d7\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\hidia\\source\\delivery_boyExpress24\\delivery_boy\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\hidia\\.gradle\\caches\\transforms-3\\5501f14592621c95db494d6c68b445d7\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hidia\\source\\delivery_boyExpress24\\delivery_boy\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\hidia\\.gradle\\caches\\transforms-3\\5501f14592621c95db494d6c68b445d7\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]
